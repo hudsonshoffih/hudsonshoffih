@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there! I'm Hudson Shoffi<br><br>AI/ML Practitioner
+# 💫 Hey there!
+👋  I'm Hudson Shoffi<br><br>AI/ML Practitioner
 
 
 ## 🌐 Socials:
