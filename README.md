@@ -1,4 +1,4 @@
-# 💫 Hey there!
+# Hey there!
 👋  I'm Hudson Shoffi<br><br>AI/ML Practitioner
 
 
