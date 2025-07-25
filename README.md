@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Building AI systems that actually solve real problems. I write code that thinks, learns, and scales.
 
@@ -17,7 +17,7 @@ Building AI systems that actually solve real problems. I write code that thinks,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI/ML & Data**
 ```
@@ -36,7 +36,7 @@ AWS • Google Cloud • Vercel • Docker
 
 ---
 
-## 📊 Brain Metrics
+## Brain Metrics
 
 <div align="center">
 
@@ -51,7 +51,7 @@ AWS • Google Cloud • Vercel • Docker
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```python
 def current_mission():
@@ -64,7 +64,7 @@ def current_mission():
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
